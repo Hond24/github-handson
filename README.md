@@ -1,1 +1,1 @@
-# gothub-handson
+# github-handson
